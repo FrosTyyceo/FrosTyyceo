@@ -3,6 +3,7 @@
 **`Cyber Security /Software engineering`**
 
 I'm an  Cyber Security and Software Engineering enthusiast, crafting my digital world step by step. Every coding project is built from the ground up, leveraging my skills in Python, HTML, CSS, Linux, and Git to solve real-life problems. My journey, which began in 2024 at age 16, is marked by a dedication to planning, designing, and continuous learning. Additionally, all my video content is meticulously created, from ideation and planning to finalizing with artistic touches, showcasing my commitment to excellence in both code .
+My Twitter 👇
    <p align="left">
       <a href="https://x.com/KoEminem5076">
        <img align= alt="Git" width="40px" style=  style="padding-right:10px;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
